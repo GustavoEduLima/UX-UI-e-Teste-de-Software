@@ -76,7 +76,7 @@ M = 3
 
 ---
 
-## ✔ **Método conectarBD()**
+##  **Método conectarBD()**
  Nós (N): 6  
  Arestas (E): 6  
  Componentes (P): 1
@@ -100,7 +100,7 @@ Os caminhos básicos foram identificados com base na complexidade ciclomática d
 
 ---
 
-## ✔ **Método verificarUsuario() – 3 Caminhos**
+##  **Método verificarUsuario() – 3 Caminhos**
 
 ### **Caminho 1 – Usuário encontrado**
 N1 → N2 → N3 → N4 → N5 → N6(true) → N7 → N9
@@ -116,7 +116,7 @@ N1 → N2 → N3 → N4(error) → N8 → N9
 
 ---
 
-## ✔ **Método conectarBD() – 2 Caminhos**
+##  **Método conectarBD() – 2 Caminhos**
 
 ### **Caminho 1 – Conexão bem-sucedida**
 N1 → N2 → N3 → N4 → N6
@@ -127,16 +127,3 @@ N1 → N2 → N3 → N5 → N6
 
 
 ---
-
-#  Conclusão
-
-A análise completa da classe `User` demonstra:
-- Fluxos claros de execução
-- Pontos de decisão bem identificados
-- Complexidade ciclomática baixa (boa manutenibilidade)
-- Caminhos básicos bem definidos para testes
-
-Toda a documentação atende aos requisitos da atividade de **Caixa Branca (White Box Testing)**.
-
----
-
