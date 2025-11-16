@@ -8,7 +8,8 @@ Este documento apresenta a análise do código da classe `User`, incluindo grafo
 #  1. Grafo de Fluxo – verificarUsuario()
 
 
-![Descrição da imagem](grafo/Captura de tela 2025-11-15 164119.png)
+![Grafo](https://raw.githubusercontent.com/GustavoEduLima/UX-UI-e-Teste-de-Software/main/grafo/Captura%20de%20tela%202025-11-15%20164119.png)
+
 
 ### **Nós**
  N1 – Início do método  
